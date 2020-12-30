@@ -1,13 +1,13 @@
-# BeccaBot Documentation
+# Becca Lyria Documentation
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-[![All Contributors](https://img.shields.io/badge/all_contributors-4-orange.svg?style=flat-square)](#contributors-)
+[![All Contributors](https://img.shields.io/badge/all_contributors-5-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 
-This repository contains the files for the documentation website for BeccaBot.
+This repository contains the files for the documentation website for Becca Lyria.
 
 ## Live Version
 
-This page is currently deployed. [View the live website.](https://www.nhcarrigan.com/BeccaBot-documentation)
+This page is currently deployed. [View the live website.](https://beccalyria.nhcarrigan.com)
 
 ## Feedback and Bugs
 
@@ -32,8 +32,9 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
   <tr>
     <td align="center"><a href="http://www.nhcarrigan.com"><img src="https://avatars1.githubusercontent.com/u/63889819?v=4" width="100px;" alt=""/><br /><sub><b>Nicholas Carrigan (he/him)</b></sub></a><br /><a href="#projectManagement-nhcarrigan" title="Project Management">📆</a></td>
     <td align="center"><a href="http://catalactics.now.sh"><img src="https://avatars1.githubusercontent.com/u/45566099?v=4" width="100px;" alt=""/><br /><sub><b>Joshua Pelealu</b></sub></a><br /><a href="#design-JoshuaPelealu" title="Design">🎨</a></td>
-    <td align="center"><a href="https://www.danielsolartech.com/"><img src="https://avatars2.githubusercontent.com/u/66956234?v=4" width="100px;" alt=""/><br /><sub><b>Daniel Solarte</b></sub></a><br /><a href="https://github.com/nhcarrigan/discord-bot-documentation/commits?author=danielsolartech" title="Code">💻</a></td>
-    <td align="center"><a href="http://landonlloyd.github.io"><img src="https://avatars0.githubusercontent.com/u/65516863?v=4" width="100px;" alt=""/><br /><sub><b>Landon Lloyd</b></sub></a><br /><a href="https://github.com/nhcarrigan/discord-bot-documentation/commits?author=LandonLloyd" title="Code">💻</a></td>
+    <td align="center"><a href="https://www.danielsolartech.com/"><img src="https://avatars2.githubusercontent.com/u/66956234?v=4" width="100px;" alt=""/><br /><sub><b>Daniel Solarte</b></sub></a><br /><a href="https://github.com/nhcarrigan/Becca-Lyria-documentation/commits?author=danielsolartech" title="Code">💻</a></td>
+    <td align="center"><a href="http://landonlloyd.github.io"><img src="https://avatars0.githubusercontent.com/u/65516863?v=4" width="100px;" alt=""/><br /><sub><b>Landon Lloyd</b></sub></a><br /><a href="https://github.com/nhcarrigan/Becca-Lyria-documentation/commits?author=LandonLloyd" title="Code">💻</a></td>
+    <td align="center"><a href="https://github.com/SKULLXL"><img src="https://avatars3.githubusercontent.com/u/68315325?v=4" width="100px;" alt=""/><br /><sub><b>Rayn Islam</b></sub></a><br /><a href="https://github.com/nhcarrigan/Becca-Lyria-documentation/issues?q=author%3ASKULLXL" title="Bug reports">🐛</a> <a href="#design-SKULLXL" title="Design">🎨</a></td>
   </tr>
 </table>
 
@@ -42,3 +43,17 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
 <!-- ALL-CONTRIBUTORS-LIST:END -->
 
 This project follows the [all-contributors](https://github.com/all-contributors/all-contributors) specification. Contributions of any kind welcome!
+
+## Licensing
+
+Copyright (C) 2020 Nicholas Carrigan
+
+This program is free software: you can redistribute it and/or modify it under the terms of the GNU Affero General Public License as published by the Free Software Foundation, either version 3 of the License, or (at your option) any later version.
+
+This program is distributed in the hope that it will be useful, but WITHOUT ANY WARRANTY; without even the implied warranty of MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the GNU Affero General Public License for more details.
+
+The full license terms may be viewed in the [LICENSE.md file](./LICENSE.md)
+
+## Contact
+
+We may be contacted through our [Discord Server](http://chat.nhcarrigan.com) or via [email form](https://contact.nhcarrigan.com).
